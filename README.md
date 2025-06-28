@@ -22,3 +22,4 @@ envVars:
     sync: false
 
   - fromGroup: my-env-group
+https://whatsapp.com/channel/0029Vb6IcZm9sBIFqpWHKE1Q
